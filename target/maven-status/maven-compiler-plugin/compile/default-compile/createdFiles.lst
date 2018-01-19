@@ -1,0 +1,3 @@
+com\scania\datalake\constants\DBConnectionConstants.class
+com\scania\datalake\util\DBVendor.class
+com\scania\datalake\App.class
